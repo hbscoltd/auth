@@ -1,0 +1,15 @@
+//Profile
+.avatar {
+    height: 150px;
+    width: 150px;
+    background: #ddd;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    img {
+      height: 150px;
+    }
+}
+  
